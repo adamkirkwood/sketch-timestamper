@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"description": "Set text layers with timestamps at discrete time intervals",
 	"main": "timestamper.sketchplugin",
+	"repository": "https://github.com/adamkirkwood/sketch-timestamper",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"build": "skpm build",
