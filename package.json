@@ -1,0 +1,25 @@
+{
+	"name": "sketch-timestamper",
+	"version": "1.0.0",
+	"description": "Set text layers with timestamps at discrete time intervals",
+	"main": "timestamper.sketchplugin",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "skpm build",
+		"publish": "skpm publish"
+	},
+	"keywords": [
+		"sketch",
+		"sketch",
+		"plugin"
+	],
+	"author": "Adam Kirkwood <hello@adamkirkwood.com>",
+	"license": "MIT",
+	"engines": {
+		"sketch": ">=3.0"
+	},
+	"manifest": "src/manifest.json",
+	"devDependencies": {
+		"skpm": "^0.9.14"
+	}
+}
