@@ -1,5 +1,6 @@
-# build artefacts
+# build artifacts
 timestamper.sketchplugin/Contents/Sketch
+timestamper.sketchplugin.zip
 
 # npm
 node_modules
