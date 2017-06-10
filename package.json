@@ -12,8 +12,10 @@
 	},
 	"keywords": [
 		"sketch",
-		"sketch",
-		"plugin"
+		"sketch plugin",
+		"timestamps",
+		"discrete time",
+		"time intervals"
 	],
 	"author": "Adam Kirkwood <hello@adamkirkwood.com>",
 	"license": "MIT",
