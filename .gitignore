@@ -1,5 +1,5 @@
 # build artefacts
-plugin.sketchplugin/Contents/Sketch
+timestamper.sketchplugin/Contents/Sketch
 
 # npm
 node_modules

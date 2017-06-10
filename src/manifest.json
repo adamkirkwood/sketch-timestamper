@@ -1,17 +1,21 @@
 {
-	"compatibleVersion": 3,
+	"name": "🤖 Timestamper",
+	"identifier": "com.adamkirkwood.timestamper",
+	"appcast": "https://api.sketchpacks.com/v1/plugins/com.adamkirkwood.timestamper/appcast",
+	"description": "Set text layers with timestamps at discrete time intervals",
+	"compatibleVersion": "44.1.0",
 	"bundleVersion": 1,
 	"commands": [
 		{
-			"name": "my-command",
-			"identifier": "my-command-identifier",
-			"script": "./my-command.js"
+			"name": "Stamp",
+			"identifier": "com.adamkirkwood.timestamper.stamp",
+			"script": "./commands/stamp.js"
 		}
 	],
 	"menu": {
-		"title": "sketch-timestamper",
+		"title": "🤖 Timestamper",
 		"items": [
-			"my-command-identifier"
+			"com.adamkirkwood.timestamper.stamp"
 		]
 	}
 }

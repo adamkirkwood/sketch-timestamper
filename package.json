@@ -20,6 +20,11 @@
 	},
 	"manifest": "src/manifest.json",
 	"devDependencies": {
+		"babel-preset-es2015": "^6.24.1",
 		"skpm": "^0.9.14"
+	},
+	"dependencies": {
+		"discrete-time": "^0.2.1",
+		"moment": "^2.18.1"
 	}
 }
