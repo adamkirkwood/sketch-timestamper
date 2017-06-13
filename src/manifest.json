@@ -2,7 +2,7 @@
 	"name": "🤖 Timestamper",
 	"identifier": "com.adamkirkwood.timestamper",
 	"appcast": "https://api.sketchpacks.com/v1/plugins/com.adamkirkwood.timestamper/appcast",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Set text layers with timestamps at discrete time intervals",
 	"compatibleVersion": "44.1.0",
 	"bundleVersion": 1,
