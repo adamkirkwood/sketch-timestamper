@@ -9,3 +9,7 @@ Set text layers with timestamps at discrete time intervals.
 1. Select your text layers
 2. Plugins -> Timestamper -> Stamp
 3. Enjoy timestamps time ago in words
+
+## Special Thanks!
+
+* Bill Davis - This plugin leverages `willdavis/discrete-time` to easily traverse through time
